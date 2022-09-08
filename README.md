@@ -1,4 +1,4 @@
-# multipart-upload
+# cloud
 
 This package provides programs to work with cloud components.
 * storage - efficient upload/download of files from S3 and GCS
