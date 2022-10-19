@@ -4,6 +4,7 @@ go 1.19
 
 require (
 	github.com/aws/aws-sdk-go v1.44.66
+	github.com/gomodule/redigo v1.8.9
 	github.com/pkg/errors v0.9.1
 	github.com/segmentio/kafka-go v0.4.34
 )
